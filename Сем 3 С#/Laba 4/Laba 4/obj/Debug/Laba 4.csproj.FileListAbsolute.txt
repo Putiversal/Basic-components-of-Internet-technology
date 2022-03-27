@@ -1,0 +1,10 @@
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\Laba 4\bin\Debug\Laba 4.exe.config
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\Laba 4\bin\Debug\Laba 4.exe
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\Laba 4\bin\Debug\Laba 4.pdb
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\Laba 4\obj\Debug\Laba_4.Form1.resources
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\Laba 4\obj\Debug\Laba_4.Properties.Resources.resources
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\Laba 4\obj\Debug\Laba 4.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\Laba 4\obj\Debug\Laba 4.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\Laba 4\obj\Debug\Laba 4.exe
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\Laba 4\obj\Debug\Laba 4.pdb
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\Laba 4\obj\Debug\Laba 4.csprojAssemblyReference.cache

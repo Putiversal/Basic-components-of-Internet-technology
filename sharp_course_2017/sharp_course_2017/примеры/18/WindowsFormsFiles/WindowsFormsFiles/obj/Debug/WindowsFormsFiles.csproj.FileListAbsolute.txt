@@ -1,0 +1,17 @@
+D:\root\yura\institute\!!!_internet\пособие_2015\!!!__КОРРЕКТИРОВКА_2017\!__ДЛЯ_СДАЧИ\ДИСК\примеры\18\WindowsFormsFiles\WindowsFormsFiles\bin\Debug\WindowsFormsFiles.exe.config
+D:\root\yura\institute\!!!_internet\пособие_2015\!!!__КОРРЕКТИРОВКА_2017\!__ДЛЯ_СДАЧИ\ДИСК\примеры\18\WindowsFormsFiles\WindowsFormsFiles\bin\Debug\WindowsFormsFiles.exe
+D:\root\yura\institute\!!!_internet\пособие_2015\!!!__КОРРЕКТИРОВКА_2017\!__ДЛЯ_СДАЧИ\ДИСК\примеры\18\WindowsFormsFiles\WindowsFormsFiles\bin\Debug\WindowsFormsFiles.pdb
+D:\root\yura\institute\!!!_internet\пособие_2015\!!!__КОРРЕКТИРОВКА_2017\!__ДЛЯ_СДАЧИ\ДИСК\примеры\18\WindowsFormsFiles\WindowsFormsFiles\obj\Debug\WindowsFormsFiles.Properties.Resources.resources
+D:\root\yura\institute\!!!_internet\пособие_2015\!!!__КОРРЕКТИРОВКА_2017\!__ДЛЯ_СДАЧИ\ДИСК\примеры\18\WindowsFormsFiles\WindowsFormsFiles\obj\Debug\WindowsFormsFiles.csproj.GenerateResource.Cache
+D:\root\yura\institute\!!!_internet\пособие_2015\!!!__КОРРЕКТИРОВКА_2017\!__ДЛЯ_СДАЧИ\ДИСК\примеры\18\WindowsFormsFiles\WindowsFormsFiles\obj\Debug\WindowsFormsFiles.exe
+D:\root\yura\institute\!!!_internet\пособие_2015\!!!__КОРРЕКТИРОВКА_2017\!__ДЛЯ_СДАЧИ\ДИСК\примеры\18\WindowsFormsFiles\WindowsFormsFiles\obj\Debug\WindowsFormsFiles.pdb
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\sharp_course_2017\sharp_course_2017\примеры\18\WindowsFormsFiles\WindowsFormsFiles\bin\Debug\WindowsFormsFiles.exe.config
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\sharp_course_2017\sharp_course_2017\примеры\18\WindowsFormsFiles\WindowsFormsFiles\bin\Debug\WindowsFormsFiles.exe
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\sharp_course_2017\sharp_course_2017\примеры\18\WindowsFormsFiles\WindowsFormsFiles\bin\Debug\WindowsFormsFiles.pdb
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\sharp_course_2017\sharp_course_2017\примеры\18\WindowsFormsFiles\WindowsFormsFiles\obj\Debug\WindowsFormsFiles.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\sharp_course_2017\sharp_course_2017\примеры\18\WindowsFormsFiles\WindowsFormsFiles\obj\Debug\WindowsFormsFiles.Properties.Resources.resources
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\sharp_course_2017\sharp_course_2017\примеры\18\WindowsFormsFiles\WindowsFormsFiles\obj\Debug\WindowsFormsFiles.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\sharp_course_2017\sharp_course_2017\примеры\18\WindowsFormsFiles\WindowsFormsFiles\obj\Debug\WindowsFormsFiles.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\sharp_course_2017\sharp_course_2017\примеры\18\WindowsFormsFiles\WindowsFormsFiles\obj\Debug\WindowsFormsFiles.exe
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\sharp_course_2017\sharp_course_2017\примеры\18\WindowsFormsFiles\WindowsFormsFiles\obj\Debug\WindowsFormsFiles.pdb
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\sharp_course_2017\sharp_course_2017\примеры\18\WindowsFormsFiles\WindowsFormsFiles\obj\Debug\WindowsFormsFiles.Form1.resources

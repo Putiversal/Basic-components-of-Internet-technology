@@ -1,0 +1,26 @@
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).AssemblyInfo.cs
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\bin\Debug\netcoreapp3.1\Laba 2 (3sem).exe
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\bin\Debug\netcoreapp3.1\Laba 2 (3sem).deps.json
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\bin\Debug\netcoreapp3.1\Laba 2 (3sem).runtimeconfig.json
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\bin\Debug\netcoreapp3.1\Laba 2 (3sem).runtimeconfig.dev.json
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\bin\Debug\netcoreapp3.1\Laba 2 (3sem).dll
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\bin\Debug\netcoreapp3.1\Laba 2 (3sem).pdb
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).dll
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).pdb
+C:\Users\danie\source\repos\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).genruntimeconfig.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).AssemblyInfo.cs
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).dll
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).pdb
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\bin\Debug\netcoreapp3.1\Laba 2 (3sem).exe
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\bin\Debug\netcoreapp3.1\Laba 2 (3sem).deps.json
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\bin\Debug\netcoreapp3.1\Laba 2 (3sem).runtimeconfig.json
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\bin\Debug\netcoreapp3.1\Laba 2 (3sem).runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\bin\Debug\netcoreapp3.1\Laba 2 (3sem).dll
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\bin\Debug\netcoreapp3.1\Laba 2 (3sem).pdb
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 2 (3sem)\Laba 2 (3sem)\obj\Debug\netcoreapp3.1\Laba 2 (3sem).genruntimeconfig.cache

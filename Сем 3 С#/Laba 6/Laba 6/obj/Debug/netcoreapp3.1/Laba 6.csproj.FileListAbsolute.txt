@@ -1,0 +1,13 @@
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\bin\Debug\netcoreapp3.1\Laba 6.exe
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\bin\Debug\netcoreapp3.1\Laba 6.deps.json
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\bin\Debug\netcoreapp3.1\Laba 6.runtimeconfig.json
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\bin\Debug\netcoreapp3.1\Laba 6.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\bin\Debug\netcoreapp3.1\Laba 6.dll
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\bin\Debug\netcoreapp3.1\Laba 6.pdb
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\obj\Debug\netcoreapp3.1\Laba 6.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\obj\Debug\netcoreapp3.1\Laba 6.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\obj\Debug\netcoreapp3.1\Laba 6.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\obj\Debug\netcoreapp3.1\Laba 6.dll
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\obj\Debug\netcoreapp3.1\Laba 6.pdb
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\obj\Debug\netcoreapp3.1\Laba 6.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 6\Laba 6\obj\Debug\netcoreapp3.1\Laba 6.csprojAssemblyReference.cache

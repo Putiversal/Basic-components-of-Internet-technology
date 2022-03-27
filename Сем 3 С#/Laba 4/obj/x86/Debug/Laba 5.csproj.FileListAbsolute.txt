@@ -1,0 +1,5 @@
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\obj\x86\Debug\Laba 5.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\obj\x86\Debug\Laba_4.Form1.resources
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\obj\x86\Debug\Laba_5.Laba_4.Properties.Resources.resources
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\obj\x86\Debug\Laba 5.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Laba 4\obj\x86\Debug\Laba 5.csproj.CoreCompileInputs.cache

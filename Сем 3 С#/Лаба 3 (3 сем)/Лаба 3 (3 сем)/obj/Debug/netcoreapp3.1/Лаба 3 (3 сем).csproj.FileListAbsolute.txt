@@ -1,0 +1,12 @@
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Лаба 3 (3 сем)\Лаба 3 (3 сем)\bin\Debug\netcoreapp3.1\Лаба 3 (3 сем).exe
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Лаба 3 (3 сем)\Лаба 3 (3 сем)\bin\Debug\netcoreapp3.1\Лаба 3 (3 сем).deps.json
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Лаба 3 (3 сем)\Лаба 3 (3 сем)\bin\Debug\netcoreapp3.1\Лаба 3 (3 сем).runtimeconfig.json
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Лаба 3 (3 сем)\Лаба 3 (3 сем)\bin\Debug\netcoreapp3.1\Лаба 3 (3 сем).runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Лаба 3 (3 сем)\Лаба 3 (3 сем)\bin\Debug\netcoreapp3.1\Лаба 3 (3 сем).dll
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Лаба 3 (3 сем)\Лаба 3 (3 сем)\bin\Debug\netcoreapp3.1\Лаба 3 (3 сем).pdb
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Лаба 3 (3 сем)\Лаба 3 (3 сем)\obj\Debug\netcoreapp3.1\Лаба 3 (3 сем).AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Лаба 3 (3 сем)\Лаба 3 (3 сем)\obj\Debug\netcoreapp3.1\Лаба 3 (3 сем).AssemblyInfo.cs
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Лаба 3 (3 сем)\Лаба 3 (3 сем)\obj\Debug\netcoreapp3.1\Лаба 3 (3 сем).csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Лаба 3 (3 сем)\Лаба 3 (3 сем)\obj\Debug\netcoreapp3.1\Лаба 3 (3 сем).dll
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Лаба 3 (3 сем)\Лаба 3 (3 сем)\obj\Debug\netcoreapp3.1\Лаба 3 (3 сем).pdb
+C:\Users\danie\OneDrive\Документы\Studying\БКИТ\Сем 3 С#\Лаба 3 (3 сем)\Лаба 3 (3 сем)\obj\Debug\netcoreapp3.1\Лаба 3 (3 сем).genruntimeconfig.cache
